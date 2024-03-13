@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "2126b31d62fe3249",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ac57768e6ed6183",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d83a1ed1cf659cb0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2b3bb486a963fc1f",
+    "type": "split",
+    "children": [
+      {
+        "id": "0df661ed3430fc32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "774d6b9fac687efc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "98b3f94a73f4e60f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0c53531966210e2f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "49495710d0ff3357",
+    "type": "split",
+    "children": [
+      {
+        "id": "52a18f401ec4c1bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1268cc549f278992",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a3513966e273b97d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e1ea4fdcdf11cce9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3cf8fe889aa7724c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "774d6b9fac687efc",
+  "lastOpenFiles": [
+    "2024-03-12.md",
+    "Sem título.canvas",
+    "0. Inbox/0. Manuscrito.md",
+    "1. Nen/0. Manuscrito.md",
+    "2. Tipos de Nen/0. Manuscrito.md",
+    "3. Habilidades de Overroll/0. Manuscrito.md",
+    "5. Técnicas de Aprendizado/0. Manuscrito.md",
+    "10. Nen Sistema Complexos/0. Manuscrito.md",
+    "11. Treinamento de Nen/0. Manuscrito.md",
+    "6. Arte Clássica/0. Manuscrito.md",
+    "4. Perfil de Personalidade/0. Manuscrito.md",
+    "7. DevOps/0. Manuscrito.md",
+    "9. Gerenciamento de Projetos/0. Manuscrito.md",
+    "8. IA/0. Manuscrito.md",
+    "10. Nen Sistema Complexos",
+    "6. Arte Clássica",
+    "8. IA",
+    "7. DevOps",
+    "9. Gerenciamento de Projetos",
+    "11. Treinamento de Nen",
+    "5. Técnicas de Aprendizado",
+    "4. Perfil de Personalidade",
+    "3. Habilidades de Overroll",
+    "2. Tipos de Nen"
+  ]
+}
